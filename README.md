@@ -1,3 +1,9 @@
+# Fork Information
+
+This is a fork of https://gitlab.com/unigespc/palabos. Its purpose is to preserve the state of Palabos with which the [Aspherix-Palabos](https://github.com/CFDEMproject/Aspherix-Palabos) coupling example is developed.
+
+Everything below this line is the original README.md from the UNIGE repository.
+
 # Palabos
 
 [Palabos](https://palabos.unige.ch/) is an open-source CFD solver based on the [lattice Boltzmann method](https://palabos.unige.ch/lattice-boltzmann/what-lattice-boltzmann/). 
